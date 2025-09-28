@@ -95,7 +95,7 @@ Skills: Python, SQL, Pandas, Data Visualization, Streamlit
 
 Portfolio: GitHub Profile
 
-Email: your.email@domain.com
+Email: axundovaslan44@gmail.com
 
 📁 Project Structure
 text
@@ -175,3 +175,4 @@ The dashboard shows real-time calculations including:
 
 
 Happy Analyzing! 📊🚀
+

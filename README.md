@@ -87,6 +87,8 @@ Business intelligence reporting
 
 Data-driven decision making
 
+
+ 
 👨‍💻 Author
 Aslan Akhundov - Data Analyst
 
@@ -95,6 +97,8 @@ Skills: Python, SQL, Pandas, Data Visualization, Streamlit
 Portfolio: GitHub Profile
 
 Email: axundovaslan44@gmail.com
+
+
 
 📁 Project Structure
 text
@@ -166,6 +170,7 @@ The dashboard shows real-time calculations including:
 
 
 Happy Analyzing! 📊🚀
+
 
 
 

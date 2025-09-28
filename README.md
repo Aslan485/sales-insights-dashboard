@@ -152,14 +152,6 @@ Plotly Python Documentation
 📞 Support
 If you have any questions or need help with setup, please open an issue on GitHub or contact the author directly.
 
-<div align="center">
-Built with ❤️ using Python and Streamlit
-
-</div>
-🎉 Demo
-https://demo.gif Example of interactive filtering and visualization
-
-Live Demo: Run locally with streamlit run sales_dashboard.py
 
 📊 Sample Metrics Display
 The dashboard shows real-time calculations including:
@@ -174,5 +166,6 @@ The dashboard shows real-time calculations including:
 
 
 Happy Analyzing! 📊🚀
+
 
 

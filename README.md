@@ -35,8 +35,7 @@ Installation
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/sales-insights-dashboard.git
-cd sales-insights-dashboard
+git clone https://github.com/Aslan485/sales-insights-dashboard
 Install dependencies
 
 bash
@@ -175,4 +174,5 @@ The dashboard shows real-time calculations including:
 
 
 Happy Analyzing! 📊🚀
+
 

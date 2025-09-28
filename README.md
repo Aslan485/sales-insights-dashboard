@@ -1,7 +1,7 @@
 🚀 Sales Insights Dashboard
 Interactive web dashboard for sales data analysis and visualization. This project demonstrates real-time data filtering, interactive visualizations, and business intelligence reporting capabilities.
 
-https://screenshot.png
+
 
 📊 Features
 Real-time Analytics: Monitor sales performance with live metrics
@@ -172,5 +172,6 @@ The dashboard shows real-time calculations including:
 🌍 Regional Analysis: Compare performance across markets
 
 💰 Revenue Insights: Monitor financial metrics
+
 
 Happy Analyzing! 📊🚀

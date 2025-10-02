@@ -94,7 +94,7 @@ Aslan Akhundov - Data Analyst
 
 Skills: Python, SQL, Pandas, Data Visualization, Streamlit
 
-Portfolio: GitHub Profile
+Portfolio: Aslan485
 
 Email: axundovaslan44@gmail.com
 
@@ -170,6 +170,7 @@ The dashboard shows real-time calculations including:
 
 
 Happy Analyzing! 📊🚀
+
 
 
 
